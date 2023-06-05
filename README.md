@@ -1,1 +1,1 @@
-# 3D-Superresolution-MRSI
+# Medical Image Analysis
